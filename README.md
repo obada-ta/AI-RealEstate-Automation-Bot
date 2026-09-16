@@ -6,7 +6,7 @@ An end-to-end automated lead qualification system built with n8n, OpenAI, and Te
 
 ## 📹 Live Video Demo
 Watch the 2-minute walkthrough showing the bot processing real estate leads in real-time:
-👉 [Watch the Live Demo Here](ضع_رابط_الفيديو_هنا)
+👉 [Watch the Live Demo Here](https://drive.google.com/file/d/1RgQDVrpvZoVM7W603mTmYgwPyy0UP3P8/view?usp=sharing)
 
 ---
 
