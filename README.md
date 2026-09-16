@@ -11,13 +11,10 @@ Watch the 2-minute walkthrough showing the bot processing real estate leads in r
 ---
 
 ## 📸 System Screenshots
-### Telegram AI Assistant
-![Telegram Chat](images/telegram_chat.jpg)
 
----
-
-### n8n Automation Workflow
-![n8n Workflow](images/n8n_workflow_canvas.jpg)
+| Telegram AI Assistant | n8n Automation Workflow |
+| :---: | :---: |
+| ![Telegram Chat](images/telegram_chat.jpg) | ![n8n Workflow](images/n8n_workflow_canvas.jpg) |
 
 ---
 
